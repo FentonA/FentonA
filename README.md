@@ -2,8 +2,10 @@
 
 I'm a developer that likes to build coold and interesting projects, help find solutions to problems and a current onsession with blockchain development.
 
- 🔭 I’m currently working on my very own NFT collections marketplace built with solidity smart contracts, zokrates for sercurity, and react an interactive frone end. 
- 🌱 Looking to enhance my knowledge in smart contract upgradability implementation, as well as how to better leverage oracles in smart contract projects. 
+I'm currently working on: 
+
+  🔭 I’m currently working on my very own NFT collections marketplace built with solidity smart contracts, zokrates for sercurity, and react an interactive frone end. 
+  🌱 Looking to enhance my knowledge in smart contract upgradability implementation, as well as how to better leverage oracles in smart contract projects. 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fentona&hide=contribs,prs)
