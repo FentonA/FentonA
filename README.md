@@ -10,7 +10,7 @@ I'm currently working on:
   
  <h2> You can also find me here:</h2>
  
-<a href='https://www.linkedin.com/in/andres-villegas-79867ab7'>![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a><a href='https://www.instagram.com/krowwvalley/'> ![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
+<a href='https://www.linkedin.com/in/alf-fenton-baab27110/'>![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a><a href='https://www.instagram.com/krowwvalley/'> ![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fentona&hide=contribs,prs)
