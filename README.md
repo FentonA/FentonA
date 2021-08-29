@@ -5,7 +5,8 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentona&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentona&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 - 🔭 I’m currently working on an NFT marketplace 
