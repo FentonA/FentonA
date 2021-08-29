@@ -13,8 +13,7 @@ I'm currently working on:
 <a href='https://www.linkedin.com/in/alf-fenton-baab27110/'>![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a><a href='https://www.instagram.com/krowwvalley/'> ![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fentona&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentona&layout=compact&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fentona&hide=contribs,prs&bg_color=DEG,COLOR1,COLOR2,COLOR3.....COLOR10) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentona&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
