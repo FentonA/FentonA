@@ -11,7 +11,7 @@ I'm currently working on:
  <h2>Find me here</h2>
  
  
- <a href=”https://www.linkedin.com/in/alf-fenton-baab27110/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+ <a href=”https://www.linkedin.com/in/alf-fenton-baab27110"/> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fentona&hide=contribs,prs)
