@@ -6,7 +6,8 @@ I'm currently working on:
 
   <ol>:desktop_computer: My very own NFT collections marketplace, built with solidity smart contracts, zokrates for sercurity, and react an interactive frone end. </ol>
   <ol>🌱 Enhancing my knowledge in smart contract upgradability implementation, as well as how to better leverage oracles in smart contract projects. </ol>
-  <ol></ol>
+  <ol> Creating a peer to peer blockchain using Rust</ol>
+  <ol> Solana NFT marketplace</ol>
   
  <h2> You can also find me here:</h2>
  
