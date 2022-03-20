@@ -1,13 +1,14 @@
 <h2> Hello, thanks for stopping by my github user account :smiley: </h2>
 
-I'm a developer that likes to build projects I find cool and interesting, help find solutions to problems and a current onsession with blockchain development.
+I'm a fledging blockchain developer and fairly experience fullstack web developer that likes to build projects that I find cool or interesting, help find solutions to problems
 
-I'm currently working on: 
+A few things that I'm working on include:
 
-  <ol>:desktop_computer: My very own NFT collections marketplace, built with solidity smart contracts, zokrates for sercurity, and react an interactive frone end. </ol>
+  <ol>:desktop_computer: And NFT collections marketplace, built with solidity smart contracts, zokrates for sercurity, and react an interactive frone end. </ol>
   <ol>🌱 Enhancing my knowledge in smart contract upgradability implementation, as well as how to better leverage oracles in smart contract projects. </ol>
   <ol> Creating a peer to peer blockchain using Rust</ol>
-  <ol> Solana NFT marketplace</ol>
+  <ol> Cardano NFT marketplace</ol>
+  <ol> Flutter mobile application</ol>
   
  <h2> You can also find me here:</h2>
  
