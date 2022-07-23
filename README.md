@@ -4,7 +4,7 @@
 <h2> Hello, thanks for stopping by my github user account :smiley: </h2>
 
 I'm a fledging blockchain developer and fairly experience fullstack web developer that likes to build projects that I find cool or interesting, help find solutions to problems
-
+![alf_coder](https://user-images.githubusercontent.com/46092106/180612639-4b8f036c-c123-41e8-9066-5c5e5bd42bb7.gif)
 A few things that I'm working on include:
 
   <ol>:desktop_computer: And NFT collections marketplace, built with solidity smart contracts, zokrates for sercurity, and react an interactive frone end. </ol>
@@ -23,4 +23,5 @@ A few things that I'm working on include:
 
 <h4> Currently listening to </h4>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrchips7&cover_image=true&theme=default&bar_color=469faf&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mrchips7&redirect=true)
+
 
