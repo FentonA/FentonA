@@ -23,6 +23,7 @@ A few things that I'm working on include:
 
 </div>
  
+ <br/> 
  
  <h2> You can also find me here:</h2>
 <a href='https://www.linkedin.com/in/alf-fenton-baab27110/'>![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
