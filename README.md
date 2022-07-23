@@ -1,4 +1,4 @@
-
+<body>
 <h2> Hello, my name is Alf!</h2>
 
 <h2> Hello, thanks for stopping by my github user account :smiley: </h2>
@@ -27,6 +27,7 @@ A few things that I'm working on include:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fentona&theme=dracula&hide=contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentona&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ </body>
 
 <h4> Currently listening to </h4>
 
