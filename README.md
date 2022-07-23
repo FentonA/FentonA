@@ -12,7 +12,7 @@ I'm a fledging blockchain developer and fairly experience fullstack web develope
 A few things that I'm working on include:
 
 <div  style=display:inlineFlex;>
-<img align="right" height="275" width="320" alt="" src="https://user-images.githubusercontent.com/46092106/180619229-e966adb1-d6e0-4758-b16e-d453524e14c1.gif" />
+<img align="right" height="275" width="400" alt="" src="https://user-images.githubusercontent.com/46092106/180619229-e966adb1-d6e0-4758-b16e-d453524e14c1.gif" />
 
 
   <ol>:desktop_computer: And NFT collections marketplace, built with solidity smart contracts, zokrates for sercurity, and react an interactive frone end. </ol>
