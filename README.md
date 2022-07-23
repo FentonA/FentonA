@@ -1,7 +1,9 @@
 
 <h2> Hello, my name is Alf!</h2>
 
-<h2> Hello, thanks for stopping by my github user account :smiley: </h2>
+<br/>
+
+<h3> Hello, thanks for stopping by my github user account :smiley: </h3>
 
 <P style=text-align:center;><img align=center width=800 src="https://github-profile-trophy.vercel.app/?username=FentonA&column=8&theme=dracula&no-frame=true&no-bd=true"/><p>
  
