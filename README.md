@@ -1,3 +1,4 @@
+<html>
 <body>
 <h2> Hello, my name is Alf!</h2>
 
@@ -33,4 +34,4 @@ A few things that I'm working on include:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrchips7&cover_image=true&theme=default&bar_color=469faf&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mrchips7&redirect=true)
 
-
+ </html>
