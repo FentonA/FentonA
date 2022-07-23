@@ -17,7 +17,7 @@ A few things that I'm working on include:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fentona&hide=contribs,prs&bg_color=DEG,COLOR1,COLOR2,COLOR3.....COLOR10) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentona&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![[https://spotify-github-profile.vercel.app/api/view.svg?uid=mrchips7&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mrchips7&cover_image=true&theme=default&bar_color_cover=true)]]
+![![https://spotify-github-profile.vercel.app/api/view.svg?uid=mrchips7&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mrchips7&cover_image=true&theme=default&bar_color_cover=true)]]
 
 
 
