@@ -9,7 +9,7 @@ I'm a fledging blockchain developer and fairly experience fullstack web develope
 
 A few things that I'm working on include:
 
-<div style=display:inline-flex;>
+<div style=display:inlineFlex;>
   <div>
   <ol>:desktop_computer: And NFT collections marketplace, built with solidity smart contracts, zokrates for sercurity, and react an interactive frone end. </ol>
   <ol>🌱 Enhancing my knowledge in smart contract upgradability implementation, as well as how to better leverage oracles in smart contract projects. </ol>
