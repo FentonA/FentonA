@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=FentonA&theme-onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FentonA&&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2> Hello, thanks for stopping by my github user account :smiley: </h2>
 
