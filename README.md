@@ -5,7 +5,7 @@
 
 <h3> Hello, thanks for stopping by my github user account :smiley: </h3>
 
-<P style=text-align:center;><img align=center width=800 src="https://github-profile-trophy.vercel.app/?username=FentonA&column=8&theme=dracula&no-frame=true&no-bd=true"/><p>
+<code style=text-align:center;><img align=center width=800 src="https://github-profile-trophy.vercel.app/?username=FentonA&column=8&theme=dracula&no-frame=true&no-bd=true"/><code>
  
 I'm a fledging blockchain developer and fairly experience fullstack web developer that likes to build projects that I find cool or interesting, help find solutions to problems
 
