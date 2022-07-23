@@ -18,8 +18,8 @@ A few things that I'm working on include:
   <ol> Cardano NFT marketplace</ol>
   <ol> Flutter mobile application</ol>
   </div>
-<img align="right" height="420" width="375" alt="" src="https://user-images.githubusercontent.com/46092106/180612639-4b8f036c-c123-41e8-9066-5c5e5bd42bb7.gif" />
- 
+<img align="right" height="420" width="375" alt="" src="https://user-images.githubusercontent.com/46092106/180619229-e966adb1-d6e0-4758-b16e-d453524e14c1.gif" />
+
 </div>
  
  
