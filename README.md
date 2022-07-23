@@ -2,7 +2,7 @@
 <h2> Hello, my name is Alf!</h2>
 
 <h2> Hello, thanks for stopping by my github user account :smiley: </h2>
-
+ [![trophy](https://github-profile-trophy.vercel.app/?username=FentonA&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 I'm a fledging blockchain developer and fairly experience fullstack web developer that likes to build projects that I find cool or interesting, help find solutions to problems
 
 A few things that I'm working on include:
@@ -17,7 +17,7 @@ A few things that I'm working on include:
 <img align="right" height="420" width="375" alt="" src="https://user-images.githubusercontent.com/46092106/180612639-4b8f036c-c123-41e8-9066-5c5e5bd42bb7.gif" />
  <h2> You can also find me here:</h2>
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=FentonA&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href='https://www.linkedin.com/in/alf-fenton-baab27110/'>![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
