@@ -18,6 +18,7 @@ A few things that I'm working on include:
  <h2> You can also find me here:</h2>
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=FentonA&&theme=dracula&no-frame=true&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+ <img  height="420" width="375" alt="" src="https://github-profile-trophy.vercel.app/?username=FentonA&&theme=dracula&no-frame=true&margin-w=15&no-bg=true)"/>
 <a href='https://www.linkedin.com/in/alf-fenton-baab27110/'>![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
