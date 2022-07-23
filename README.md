@@ -3,7 +3,7 @@
 
 <h2> Hello, thanks for stopping by my github user account :smiley: </h2>
 
-  <img align="center" width=800 src="https://github-profile-trophy.vercel.app/?username=FentonA&column=8&theme=gruvbox&no-frame=true"/>
+  <img align=center width=800 src="https://github-profile-trophy.vercel.app/?username=FentonA&column=8&theme=gruvbox&no-frame=true"/>
  
 I'm a fledging blockchain developer and fairly experience fullstack web developer that likes to build projects that I find cool or interesting, help find solutions to problems
 
