@@ -9,6 +9,7 @@ I'm a fledging blockchain developer and fairly experience fullstack web develope
 
 A few things that I'm working on include:
 
+<div>
   <ol>:desktop_computer: And NFT collections marketplace, built with solidity smart contracts, zokrates for sercurity, and react an interactive frone end. </ol>
   <ol>🌱 Enhancing my knowledge in smart contract upgradability implementation, as well as how to better leverage oracles in smart contract projects. </ol>
   <ol> Creating a peer to peer blockchain using Rust</ol>
@@ -19,7 +20,7 @@ A few things that I'm working on include:
 <img align="right" height="420" width="375" alt="" src="https://user-images.githubusercontent.com/46092106/180612639-4b8f036c-c123-41e8-9066-5c5e5bd42bb7.gif" />
  <h2> You can also find me here:</h2>
  
-
+</div>
 <a href='https://www.linkedin.com/in/alf-fenton-baab27110/'>![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
