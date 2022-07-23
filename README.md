@@ -24,7 +24,9 @@ A few things that I'm working on include:
  <br/> 
  
  <h2> You can also find me here:</h2>
-<a href='https://www.linkedin.com/in/alf-fenton-baab27110/'>![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+ 
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alf-fenton-baab27110)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fentona&theme=dracula&hide=contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentona&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
