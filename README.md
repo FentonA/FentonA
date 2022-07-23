@@ -3,7 +3,7 @@
 
 <br/>
 
-<img align="center" width=1000 src="https://github-profile-trophy.vercel.app/?username=FentonA&column=8&theme=dracula&no-frame=true&no-bd=true"/>
+<img align="center" width=1200 src="https://github-profile-trophy.vercel.app/?username=FentonA&column=8&theme=dracula&no-frame=true&no-bd=true"/>
  
 I'm a fledging blockchain developer and fairly experience fullstack web developer that likes to build projects that I find cool or interesting, help find solutions to problems
 
