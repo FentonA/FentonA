@@ -2,7 +2,9 @@
 <h2> Hello, my name is Alf!</h2>
 
 <h2> Hello, thanks for stopping by my github user account :smiley: </h2>
+
  [![trophy](https://github-profile-trophy.vercel.app/?username=FentonA&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 I'm a fledging blockchain developer and fairly experience fullstack web developer that likes to build projects that I find cool or interesting, help find solutions to problems
 
 A few things that I'm working on include:
