@@ -19,9 +19,6 @@ I'm a fledging blockchain developer and fairly experience fullstack web develope
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FentonA&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=FentonA&icon=0&color=0)](https://visitcount.itsvg.in)
 
