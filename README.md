@@ -1,10 +1,17 @@
-# 💫 About Me:
-I'm a fledging blockchain developer and fairly experience fullstack web developer that likes to build projects that I find cool or interesting, help find solutions to problems
-  <ol>:desktop_computer: And NFT collections marketplace, built with solidity smart contracts, zokrates for sercurity, and react an interactive frone end. </ol>
-  <ol>🌱 Enhancing my knowledge in smart contract upgradability implementation, as well as how to better leverage oracles in smart contract projects. </ol>
-  <ol> Creating a peer to peer blockchain using Rust</ol>
-  <ol> Cardano NFT marketplace</ol>
-  <ol> Flutter mobile application</ol>
+# Software Engineer
+ Hi, I am a software engineer with experience in TypeScript, Go, and Python. I am constantly learning and exploring new technologies and currently diving into Rust and Ruby.
+# Skills
+* TypeScript
+* Go
+* Python
+* Rust
+* Ruby
+# Education
+* Bachelors Degree, Computer Science, Montclair State University
+# Contact
+Feel free to reach out to me via:
+* Email: Fentonalf@gmail.com
+* Phone: 862 276 6178
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alf-fenton-baab27110/) 
