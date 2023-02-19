@@ -1,11 +1,5 @@
 # Software Engineer
  Hi, I am a software engineer with experience in TypeScript, Go, and Python. I am constantly learning and exploring new technologies and currently diving into Rust and Ruby.
-# Skills
-* TypeScript
-* Go
-* Python
-* Rust
-* Ruby
 # Education
 * Bachelors Degree, Computer Science, Montclair State University
 # Contact
