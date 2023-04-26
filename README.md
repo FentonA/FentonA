@@ -26,7 +26,7 @@ Feel free to reach out to me via:
 
 <h4> Currently listening to </h4>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrchips7&cover_image=true&theme=default&bar_color=469faf&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mrchips7&redirect=true)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001873.a337a459eda14b89a5bffe1c62e03bf6.1236)](https://github.com/rayriffy/apple-music-github-profile)
 
 
 
