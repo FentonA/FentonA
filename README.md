@@ -2,10 +2,6 @@
  Hi, I am a software engineer with experience in TypeScript,and Python. I am constantly learning and exploring new technologies and currently diving into Rust and Ruby.
 # Education
 * Bachelors Degree, Computer Science, Montclair State University
-# Contact
-Feel free to reach out to me via:
-* Email: Fentonalf@gmail.com
-* Phone: 862 276 6178
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alf-fenton-baab27110/) 
