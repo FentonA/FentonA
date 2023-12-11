@@ -19,11 +19,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FentonA&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<h4> Currently listening to </h4>
-
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001873.a337a459eda14b89a5bffe1c62e03bf6.1236)](https://github.com/rayriffy/apple-music-github-profile)
-
-
-
-
