@@ -1,10 +1,11 @@
-# Software Engineer
+# Alf Fenton
 
-Backend-focused engineer with experience building web applications, APIs, and distributed systems. I enjoy working across the stack but gravitate toward backend architecture, databases, and infrastructure.
+Backend systems engineer specializing in Rust and cloud-native infrastructure.
+I've helped architect real-time event pipelines processing millions of daily 
+interactions on AWS — Kinesis, DynamoDB, Lambda, the works.
 
-Rust is my language of choice for performance-critical systems and side projects—I've been writing it for 3+ years and appreciate its approach to memory safety and correctness. Professionally, I work with TypeScript and Rails building production applications.
-
-Interested in distributed systems, observability, and developer tooling.
+7+ years building production systems. Rust is my primary language — I reach for it
+when correctness and performance are non-negotiable.
 
 ## 🎓 Education
 BS Computer Science, Montclair State University
