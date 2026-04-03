@@ -27,11 +27,10 @@ Software Engineer at CareerPlug — Rails features for hiring tools used by thou
 Training Muay Thai.
 
 ---
+[Alf's GitHub stats](https://github-readme-stats.vercel.app/api?username=FentonA&show_icons=true&theme=dark&hide_border=true)
 
-![Alf's GitHub stats](https://github-readme-stats.vercel.app/api?username=FentonA&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+[GitHub Streak](https://streak-stats.demolab.com?user=FentonA&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FentonA&layout=compact&theme=github_dark&hide_border=true)
+[Activity](https://github-readme-activity-graph.vercel.app/graph?username=FentonA&theme=github-dark&hide_border=true)
 
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alf-fenton-baab27110)
+[Trophy](https://github-profile-trophy.vercel.app/?username=FentonA&theme=darkhub&no-frame=true&row=1&column=6)
