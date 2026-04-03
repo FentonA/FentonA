@@ -1,24 +1,32 @@
 # Alf Fenton
 
-Backend systems engineer specializing in Rust and cloud-native infrastructure.
-I've helped architect real-time event pipelines processing millions of daily 
-interactions on AWS — Kinesis, DynamoDB, Lambda, the works.
+**Rust engineer. Less noise, more signal.**
 
-7+ years building production systems. Rust is my primary language — I reach for it
-when correctness and performance are non-negotiable.
+Co-Founder at [Clickk](https://clickk.com) — interactive video platform for lead generation. Rust microservices, AWS EKS, real-time event pipelines.
 
-## 🎓 Education
-BS Computer Science, Montclair State University
+Software Engineer at CareerPlug — Rails features for hiring tools used by thousands of small businesses.
 
-## 💻 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,typescript,python,ruby,rails,nextjs,aws,postgres,redis,docker&perline=5" />
-</p>
+7+ years in production systems. Blockchain experience across Ethereum, Solana, and Cardano. Cloud-native from day one.
 
 ---
 
-## 📊 Stats
+## Tech
+
+**Languages:** Rust · TypeScript · Python · Ruby
+
+**Infrastructure:** AWS (EKS, Kinesis, Lambda, DynamoDB, S3) · Kubernetes · Terraform · ArgoCD · Docker
+
+**Data:** Postgres · Redis · DynamoDB
+
+**Frameworks:** Rails · Next.js · Actix-web · Axum
+
+---
+
+## Outside the editor
+
+Training Muay Thai.
+
+---
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FentonA&theme=github-dark&hide_border=true&area=true)
 
@@ -26,5 +34,4 @@ BS Computer Science, Montclair State University
 
 ---
 
-## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alf-fenton-baab27110)
