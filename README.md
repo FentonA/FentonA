@@ -27,6 +27,19 @@ Software Engineer at CareerPlug — Rails features for hiring tools used by thou
 Training Muay Thai.
 
 ---
+
+**Data:** Postgres · Redis · DynamoDB
+
+**Frameworks:** Rails · Next.js · Actix-web · Axum
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alf-fenton-baab27110)
+## Outside the editor
+
+Training Muay Thai.
+
+---
 [Alf's GitHub stats](https://github-readme-stats.vercel.app/api?username=FentonA&show_icons=true&theme=dark&hide_border=true)
 
 [GitHub Streak](https://streak-stats.demolab.com?user=FentonA&theme=dark&hide_border=true)
