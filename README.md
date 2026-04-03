@@ -6,7 +6,7 @@ Co-Founder at [Clickk](https://clickk.com) — interactive video platform for le
 
 Software Engineer at CareerPlug — Rails features for hiring tools used by thousands of small businesses.
 
-7+ years in production systems. Blockchain experience across Ethereum, Solana, and Cardano. Cloud-native from day one.
+7+ years in production systems. Blockchain experience across Ethereum, Solana, and Cardano, application software, microservices, and systems engineering.
 
 ---
 
