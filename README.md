@@ -20,7 +20,9 @@ Software Engineer at CareerPlug — Rails features for hiring tools used by thou
 
 **Frameworks:** Rails · Next.js · Actix-web · Axum
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,typescript,python,ruby,rails,nextjs,aws,postgres,redis,docker,kubernetes,terraform&perline=6" />
+</p>
 
 ## Outside the editor
 
